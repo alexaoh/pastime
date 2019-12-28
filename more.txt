@@ -1,0 +1,35 @@
+Interesting articles I want to read:
+
+--> Linux first guide!! Muligens en fin kilde til å begynne med!
+http://www.ee.surrey.ac.uk/Teaching/Unix/
+
+https://medium.com/@ayushya/move-directory-from-one-repository-to-another-preserving-git-history-d210fa049d4b
+--> Eksempel på en guide som kan være nyttig for å flytte kode mellom repoer. 
+
+https://dev.to/chantastic/learn-react-in-25-short-lessons-react-holiday-2019-24np
+
+https://dev.to/mortoray/essential-code-for-lists-and-vectors-in-an-interview-5255?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=
+https://dev.to/arbaoui_mehdi/old-school-loops-in-javascript-for-loop-and-foreach-3e46
+https://realpython.com/python-testing/
+https://realpython.com/python-lambda/
+https://www.restapitutorial.com/lessons/whatisrest.html#
+https://www.google.com/search?client=firefox-b-d&q=dotfiles (google search for dotfiles)
+
+Hadde vært kult å se nærmere på Joukowski-transformasjonen i kompleks analyse! Prøve å modellere airofilen via avbildningen?
+
+https://nbviewer.jupyter.org/urls/www.numfys.net/media/notebooks/Eulers_method_-_implementation-_done.ipynb
+
+https://nbviewer.jupyter.org/urls/www.numfys.net/media/notebooks/NumpyIntermediate.ipynb
+
+Lese litt om programmeringsspråket Wolfram! Finne ut litt om hvordan det kan brukes/hvordan det fungerer!
+
+https://nbviewer.jupyter.org/urls/www.numfys.net/media/notebooks/stationary_heat_equation_1d.ipynb
+
+--> Finnes veldig mye kult på NumFys!!
+
+https://docs.djangoproject.com/en/1.9/howto/deployment/wsgi/
+--> Lenken over er fra dokumentasjonen til Django, om hvordan man deployer et Django-prosjekt!
+
+https://www.metaltoad.com/blog/hosting-django-sites-apache
+--> Kan kanskje være en grei kilde å begynne med for hvordan man kan hoste en Django-side på en Apache-server. Kan f.eks prøve å hoste siden oå folk.ntnu først, for å teste!
+
