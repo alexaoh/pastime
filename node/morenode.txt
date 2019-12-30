@@ -1,0 +1,2 @@
+Short tutorial for node: https://dev.to/nerdjfpb/day-1-learning-node-js-in-30-days-mini-series-55e7 
+NPM tricks: https://dev.to/borrellidev/impress-your-colleagues-with-these-npm-tricks-3fcb?utm_source=additional_box&utm_medium=internal&utm_campaign=regular&booster_org=
