@@ -1,0 +1,3 @@
+https://medium.com/@BennettGarner/build-your-first-rest-api-with-django-rest-framework-e394e39a482c
+
+--> More tutorials for djangoREST-applications

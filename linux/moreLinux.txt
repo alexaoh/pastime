@@ -1,0 +1,2 @@
+https://tutorials.ubuntu.com/tutorial/command-line-for-beginners?fbclid=IwAR0i1p4MVPYkgeF3GhItneQR_CK4Vo4wMHsBLflqEf_KuSf_jvTY9Ams3ec#1
+--> Command line tutorial for linux, might be worth checking out 
