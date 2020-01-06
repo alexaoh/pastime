@@ -1,3 +1,5 @@
+Learn React in 30 minutes: https://www.youtube.com/watch?v=hQAHSlTtcmY
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
