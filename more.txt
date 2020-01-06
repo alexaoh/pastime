@@ -33,3 +33,9 @@ https://docs.djangoproject.com/en/1.9/howto/deployment/wsgi/
 https://www.metaltoad.com/blog/hosting-django-sites-apache
 --> Kan kanskje være en grei kilde å begynne med for hvordan man kan hoste en Django-side på en Apache-server. Kan f.eks prøve å hoste siden oå folk.ntnu først, for å teste!
 
+--> Morsom lesning: 
+https://dev.to/_marcba/how-to-become-a-faster-developer-in-2020-1l11
+https://dev.to/cydstumpel/creating-a-fold-out-navigation-with-css-only-4g9k
+https://dev.to/scarlettperry/debugging-python-code-in-the-terminal-with-examples-d39
+https://dev.to/valericaplesu/what-a-difference-a-year-makes-in-software-development-get-in-shape-for-2020-37fn
+https://dev.to/shawnhuangfernandes/how-do-you-take-care-of-yourself-288m
